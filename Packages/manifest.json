@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.kylewbanks.scenerefattribute": "file:C:/Users/alonc/Downloads/scene-ref-attribute-main/scene-ref-attribute-main",
+    "com.kylewbanks.scenerefattribute": "https://github.com/kylewbanks/scene-ref-attribute.git?path=/SceneRefAttribute",
     "com.unity.ai.navigation": "2.0.8",
     "com.unity.cinemachine": "3.1.5",
     "com.unity.cloud.gltfast": "6.15.1",
